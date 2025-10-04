@@ -58,15 +58,47 @@
 
 <div align="center">
 
-```csharp
-public class CurrentProjects
-{
-    public string[] ActiveProjects = 
-    {
-        "🏗️ Scalable Microservices with .NET 8",
-        "🔍 Advanced Search Solutions with Elasticsearch",
-        "🐳 Containerized Applications with Docker",
-        "⚡ High-Performance Caching with Redis",
-        "🌐 Modern Web APIs with ASP.NET Core"
-    };
-}
+### 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁𝘀
+
+| Category | Project |
+|----------|---------|
+| 🏗️ **Architecture** | Scalable Microservices with .NET 8 |
+| 🔍 **Search** | Advanced Solutions with Elasticsearch |
+| 🐳 **DevOps** | Containerized Applications with Docker |
+| ⚡ **Performance** | High-Performance Caching with Redis |
+| 🌐 **APIs** | Modern Web APIs with ASP.NET Core |
+
+</div>
+
+## 📊 𝗪𝗲𝗲𝗸𝗹𝘆 𝗗𝗲𝘃 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻
+
+<div align="center">
+
+**C#/.NET** 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 85%  
+**Database** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 65%  
+**Frontend** 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 40%  
+**DevOps** 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ 50%  
+**Architecture** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
+
+</div>
+
+## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahdisoltanmoradi)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=mahdisoltanmoradi&color=00ff88&style=flat-square)
+  
+  *"First, solve the problem. Then, write the code."* - John Johnson
+  
+</div>
