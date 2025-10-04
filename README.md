@@ -54,33 +54,6 @@
 
 </div>
 
-## 🎯 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-
-<div align="center">
-
-### 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁𝘀
-
-| Category | Project |
-|----------|---------|
-| 🏗️ **Architecture** | Scalable Microservices with .NET 8 |
-| 🔍 **Search** | Advanced Solutions with Elasticsearch |
-| 🐳 **DevOps** | Containerized Applications with Docker |
-| ⚡ **Performance** | High-Performance Caching with Redis |
-| 🌐 **APIs** | Modern Web APIs with ASP.NET Core |
-
-</div>
-
-## 📊 𝗪𝗲𝗲𝗸𝗹𝘆 𝗗𝗲𝘃 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻
-
-<div align="center">
-
-**C#/.NET** 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 85%  
-**Database** 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 65%  
-**Frontend** 🟨🟨🟨🟨⬜⬜⬜⬜⬜⬜ 40%  
-**DevOps** 🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜ 50%  
-**Architecture** 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜ 70%
-
-</div>
 
 ## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
