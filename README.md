@@ -1,4 +1,3 @@
-
 ##  ⚡ 𝕸𝖆𝖍𝖉𝖎 𝕾𝖔𝖑𝖙𝖆𝖓𝕸𝖔𝖗𝖆𝖉𝖎 | 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 .𝘕𝙀𝙏 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 <p align="center">
@@ -55,37 +54,19 @@
 
 </div>
 
-## 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdisoltanmoradi&theme=react-dark&bg_color=0d1117&hide_border=true&area_color=00ff88&line=00ff88&point=ffffff&area=true" />
-  
-</div>
-
-## 🔥 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻
-
-- 🏗️ Building scalable microservices architecture with .NET 8
-- 🔍 Implementing advanced search solutions with Elasticsearch  
-- 🐳 Containerizing applications with Docker
-- ⚡ Optimizing performance with Redis caching
-
-## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
+## 🎯 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=mahdisoltanmoradi&color=00ff88&style=flat-square)
-  
-  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-  
-</div>
+```csharp
+public class CurrentProjects
+{
+    public string[] ActiveProjects = 
+    {
+        "🏗️ Scalable Microservices with .NET 8",
+        "🔍 Advanced Search Solutions with Elasticsearch",
+        "🐳 Containerized Applications with Docker",
+        "⚡ High-Performance Caching with Redis",
+        "🌐 Modern Web APIs with ASP.NET Core"
+    };
+}
