@@ -1,30 +1,91 @@
 
-##  🚀 Activated
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdisoltanmoradi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdisoltanmoradi&layout=compact&title_color=55A48C&text_color=ffffff&bg_color=0d1117&border_color=fff0)
-## 🚀 Professional Skills
+##  ⚡ 𝕸𝖆𝖍𝖉𝖎 𝕾𝖔𝖑𝖙𝖆𝖓𝕸𝖔𝖗𝖆𝖉𝖎 | 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 .𝘕𝙀𝙏 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
-### 💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-0080FF?style=for-the-badge&logo=grpc&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=00ff88&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝙃𝙚𝙡𝙡𝙤+𝙒𝙤𝙧𝙡𝙙!+👋;.𝙉𝙀𝙏+𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩+🏗️;𝘽𝙖𝙘𝙠-𝙀𝙣𝙙+𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩+🚀;𝙈𝙞𝙘𝙧𝙤𝙨𝙚𝙧𝙫𝙞𝙘𝙚𝙨+𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩+🔧" />
+</p>
 
-### 🌐 Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdisoltanmoradi&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdisoltanmoradi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=mahdisoltanmoradi&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)
+  
+</div>
 
-### 🛢️ Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+## 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 & 𝗦𝗸𝗶𝗹𝗹𝘀
 
-### 🛠️ Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 💻 𝗖𝗼𝗿𝗲 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black&color=239120)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white&labelColor=black)
+
+</div>
+
+### 🗄️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 & 𝗖𝗮𝗰𝗵𝗶𝗻𝗴
+<div align="center">
+
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&labelColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=black)
+
+</div>
+
+### 🎯 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+<div align="center">
+
+![WPF](https://img.shields.io/badge/WPF-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white&labelColor=black)
+![WinForms](https://img.shields.io/badge/WinForms-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white&labelColor=black)
+![gRPC](https://img.shields.io/badge/gRPC-%230080FF.svg?style=for-the-badge&logo=grpc&logoColor=white&labelColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=black)
+
+</div>
+
+### 🚀 𝗗𝗲𝘃𝗢𝗽𝘀 & 𝗧𝗼𝗼𝗹𝘀
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=black)
+
+</div>
+
+## 📈 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdisoltanmoradi&theme=react-dark&bg_color=0d1117&hide_border=true&area_color=00ff88&line=00ff88&point=ffffff&area=true" />
+  
+</div>
+
+## 🔥 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗢𝗻
+
+- 🏗️ Building scalable microservices architecture with .NET 8
+- 🔍 Implementing advanced search solutions with Elasticsearch  
+- 🐳 Containerizing applications with Docker
+- ⚡ Optimizing performance with Redis caching
+
+## 📫 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=mahdisoltanmoradi&color=00ff88&style=flat-square)
+  
+  *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+  
+</div>
