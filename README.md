@@ -1,7 +1,7 @@
 ##  ⚡ 𝕸𝖆𝖍𝖉𝖎 𝕾𝖔𝖑𝖙𝖆𝖓𝕸𝖔𝖗𝖆𝖉𝖎 | 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 .𝘕𝙀𝙏 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=00ff88&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=𝙃𝙚𝙡𝙡𝙤+𝙒𝙤𝙧𝙡𝙙!+👋;.𝙉𝙀𝙏+𝘼𝙧𝙘𝙝𝙞𝙩𝙚𝙘𝙩+🏗️;𝘽𝙖𝙘𝙠-𝙀𝙣𝙙+𝙎𝙥𝙚𝙘𝙞𝙖𝙡𝙞𝙨𝙩+🚀;𝙈𝙞𝙘𝙧𝙤𝙨𝙚𝙧𝙫𝙞𝙘𝙚𝙨+𝙀𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩+🔧" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=00ff88&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+My+Friend!+👋" />
 </p>
 
 <div align="center">
